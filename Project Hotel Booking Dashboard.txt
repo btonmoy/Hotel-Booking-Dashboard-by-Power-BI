@@ -1,0 +1,24 @@
+Very Basic Dashboard Project Details on Hotel Booking.
+
+Project: Hotel Booking Dashboard.
+
+Object: 
+
+In this Hotel data set there is 2 types of hotel system one is Resort Hotel & Another is City Hotel.Here we will work with Resort Hotel.
+
+Problem Statement: 
+
+1. We will show here total hotel Revenue on monthely basis.
+
+2. We will show here total hotel Revenue Loss on monthely basis.
+ 
+3. We will show here cancelled Ratio.
+
+4. We will show here avg daily rate by Lead time transation.
+
+5. We will show top 10 countries cancellation ratio country wise.
+
+6. Average Daily rate and cancellation by month.
+
+
+Project Collection From ( Basic TechConcepts By Saloni YouTube Channel ) 
